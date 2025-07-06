@@ -1,0 +1,36 @@
+# 👋 Hi, I'm Kapil Kholiya
+
+🚀 Final Year B.Tech CSE Student | Future Full-Stack Developer  
+💻 Passionate about building modern web apps  
+🌐 Currently diving deep into React, TailwindCSS, Node.js & system design  
+🛠️ Always learning — from clean code to scalable systems  
+📫 Let's connect and build something awesome!
+
+---
+
+### 🧰 Tech Stack
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+![Kapil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kapil-kholiya-09&show_icons=true&theme=radical)
+
+---
+
+### 🌍 Portfolio
+🔗 [Visit My Portfolio](https://myportfolio-xi-tawny.vercel.app)
+
+---
+
+### 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kapil-kholiya-4b3936361)  
+[![Email](https://img.shields.io/badge/-Email-white?logo=gmail&logoColor=red)](mailto:kabirkholiya.kk@gmail.com)
