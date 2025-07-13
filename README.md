@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Kapil Kholiya
 
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=435&lines=Final+Year+B.Tech+CSE+Student;Full+Stack+Dev+in+Progress;React+%2B+Node.js+Lover;Open+to+Collaborations)
+
 🚀 Final Year B.Tech CSE Student | Future Full-Stack Developer  
 💻 Passionate about building modern web apps  
 🌐 Currently diving deep into React, TailwindCSS, Node.js & system design  
