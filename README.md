@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kapil Kholiya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+#  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hi, I'm Kapil Kholiya
 
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=435&lines=Full+Stack+Developer;Open+to+Collaborations)
 
@@ -25,8 +25,6 @@
 ### 📈 GitHub Stats
 ![Kapil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kapil-kholiya-09&show_icons=true&theme=radical)
 
----
-![Snake animation](https://github.com/Kapil-kholiya-09/Kapil-kholiya-09/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
