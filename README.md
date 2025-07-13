@@ -26,7 +26,7 @@
 ---
 
 ### 🌍 Portfolio  
-🔗 [Visit My Portfolio](https://myportfolio-xi-tawny.vercel.app)
+🔗 [Visit My Portfolio](https://animated-portfolio-flax-chi.vercel.app)
 
 ---
 
