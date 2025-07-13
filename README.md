@@ -26,6 +26,9 @@
 ![Kapil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kapil-kholiya-09&show_icons=true&theme=radical)
 
 ---
+![Snake animation](https://github.com/Kapil-kholiya-09/Kapil-kholiya-09/blob/output/github-contribution-grid-snake.svg)
+
+---
 
 ### 🌍 Portfolio  
 🔗 [Visit My Portfolio](https://animated-portfolio-flax-chi.vercel.app)
