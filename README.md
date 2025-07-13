@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kapil Kholiya
+# 👋 Hi, I'm Kapil Kholiya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=435&lines=Full+Stack+Developer;Open+to+Collaborations)
 
