@@ -1,6 +1,6 @@
 #  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hi, I'm Kapil Kholiya
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=435&lines=Full+Stack+Developer;Open+to+Collaborations)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=435&lines=Aspiring+Developer;Open+to+Collaborations)
 
 🚀 Future Full-Stack Developer  
 💻 Passionate about building modern web apps  
