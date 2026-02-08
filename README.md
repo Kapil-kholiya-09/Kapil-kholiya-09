@@ -2,9 +2,9 @@
 
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=435&lines=Aspiring+Developer;Loves+to+Code)
 
-🚀 Future Full-Stack Developer  
-💻 Passionate about building modern web apps  
-🌐 Currently diving deep into React, TailwindCSS, Node.js & system design  
+🚀 Future DevOps Engineer
+💻 Passionate about DevOps, Automation and Testing 
+🌐 Currently diving deep into Selenium, Docker, Linux , kubernetes
 🛠️ Always learning — from clean code to scalable systems  
 📫 Let's connect and build something awesome!
 
