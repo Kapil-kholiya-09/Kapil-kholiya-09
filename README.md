@@ -1,6 +1,6 @@
 #  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hi, I'm Kapil Kholiya
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=435&lines=Aspiring+DevOps+Engineer;Loves+to+Code+&+Test)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=435&lines=Aspiring+DevOps+Engineer;Loves+Coding+and+Testing)
 
 🚀 Future DevOps Engineer
 💻 Passionate about DevOps, Automation and Testing 
