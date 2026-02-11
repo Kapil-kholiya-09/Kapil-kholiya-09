@@ -39,12 +39,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-![Kapil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kapil-kholiya-09\&show_icons=true\&theme=radical)
-
----
-
 ### 🌍 Portfolio
 
 🔗 [Visit My Portfolio](https://animated-portfolio-flax-chi.vercel.app)
